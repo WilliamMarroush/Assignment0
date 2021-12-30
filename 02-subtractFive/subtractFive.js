@@ -1,5 +1,6 @@
 function subtractFive(num) {
-  // Insert code here;
+  let outputnum = num-5;
+	return outputnum;
 }
 
 // Do not edit this line;
